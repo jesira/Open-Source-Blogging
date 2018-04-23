@@ -1,0 +1,38 @@
+body {
+    background-image: url("../Backgrounds/login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#log{
+    position: absolute;
+    top: 15%;
+    left: 35%;
+}
+
+#email {
+
+    position: absolute;
+    top: 25%;
+    left: 37.5%;
+}
+
+#pass {
+
+    position: absolute ;
+    top: 35%;
+    left: 35.3%;
+}
+
+#back {
+
+    position: absolute ;
+    top: 8%;
+    left: 30%;
+}
+
+#submit {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+}
